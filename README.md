@@ -1,2 +1,2 @@
-# desafio-github-primeiro-repc
-Desafio de projeto sobre Git/Github
+# desafio-github-primeiro-repositorio
+Repositório criado para desafio de projeto
